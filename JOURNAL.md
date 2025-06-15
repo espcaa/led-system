@@ -11,3 +11,10 @@ found mosfets -> https://lcsc.com/product-detail/MOSFETs_HXY-MOSFET-IRF7201PBF-H
 ### Diagramm!!!!
 
 <img width="883" alt="Screenshot 2025-06-15 at 12 37 06" src="https://github.com/user-attachments/assets/33b1b34c-7f43-4b17-afa3-86e872148372" />
+
+### PCB
+
+made the pcb ofc \
+<img width="594" alt="image" src="https://github.com/user-attachments/assets/24891d14-5c22-46dc-897d-1fb4aaf80e32" />
+
+around 4h for this day (the only one :sob:
