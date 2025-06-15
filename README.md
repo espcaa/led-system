@@ -1,1 +1,3 @@
-this is my journal :3
+# Leds are fun!
+
+
