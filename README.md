@@ -8,6 +8,7 @@ Created this project in 4h to drive a very long led strip i got at (scrapyard)[h
 - has shiny mosfets
 - has an esp32-f to control your leds wirelessly
 - maybe works
-- made by me
+- made by me 
 
-
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/635420c5-c458-449b-a572-68b06bb66abf" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/a163d1a2-d1e8-4857-9b48-0aa0f3804dfe" />
