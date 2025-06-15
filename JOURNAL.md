@@ -10,4 +10,4 @@ found mosfets -> https://lcsc.com/product-detail/MOSFETs_HXY-MOSFET-IRF7201PBF-H
 
 ### Diagramm!!!!
 
-<img width="830" alt="Screenshot 2025-06-15 at 12 36 23" src="https://github.com/user-attachments/assets/560d9f38-30ef-4076-8d33-209673ffc68d" />
+<img width="883" alt="Screenshot 2025-06-15 at 12 37 06" src="https://github.com/user-attachments/assets/33b1b34c-7f43-4b17-afa3-86e872148372" />
